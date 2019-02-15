@@ -1,1 +1,1 @@
-export default (...someArgs) => `Args are ${someArgs.join(', ')}`;
+export default (...someArgs) => `Args are ${someArgs.join(', ')}.`;
