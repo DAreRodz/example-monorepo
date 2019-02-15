@@ -1,0 +1,20 @@
+{
+  "name": "example-monorepo",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "node --experimental-modules packages/project-a/index.mjs",
+    "release": "node scripts/release.js"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^3.0.1",
+    "@semantic-release/git": "^7.0.5",
+    "@semantic-release/github": "^5.2.0",
+    "@semantic-release/npm": "^5.0.5",
+    "multi-semantic-release": "^1.0.3"
+  }
+}
