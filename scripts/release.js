@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const multirelease = require("multi-semantic-release");
 
 multirelease([

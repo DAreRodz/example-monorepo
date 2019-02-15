@@ -15,6 +15,7 @@
     "@semantic-release/git": "^7.0.5",
     "@semantic-release/github": "^5.2.0",
     "@semantic-release/npm": "^5.0.5",
+    "dotenv": "^6.2.0",
     "multi-semantic-release": "^1.0.3"
   }
 }
