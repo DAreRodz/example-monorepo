@@ -1,3 +1,10 @@
+# project-b [1.2.0](https://github.com/DAreRodz/example-monorepo/compare/project-b@1.1.1...project-b@1.2.0) (2019-02-18)
+
+
+### Features
+
+* **project-b:** an important change ([e55cd5e](https://github.com/DAreRodz/example-monorepo/commit/e55cd5e))
+
 ## project-b [1.1.1](https://github.com/darerodz/example-monorepo/compare/project-b@1.1.0...project-b@1.1.1) (2019-02-15)
 
 
